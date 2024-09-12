@@ -1,0 +1,11 @@
+[
+    {
+        "name":"CV",
+        "description": "Modifier votre CV comme vous le souhaitez",
+        "destination":"cv"
+    },{
+        "name":"Lettre de motivation",
+        "description": "Modifier votre Lettre de motivation comme vous le souhaitez",
+        "destination":"lettredemotivation"
+    }
+]
